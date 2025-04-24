@@ -1,6 +1,6 @@
 # Accent (diacritic) Removal Utility
 
-[![License: GNU](https://img.shields.io/badge/License-GNU-blue.svg)](https://opensource.org/licenses/GNU)
+[![License: GNU](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![npm version](https://img.shields.io/badge/npm-0.1.1-blue)](https://www.npmjs.com/package/@urbanzoo/remove-accents)r
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/UrbanZooStudios/remove-accents)
 
@@ -116,7 +116,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the GNU General Public License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 

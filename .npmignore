@@ -1,6 +1,7 @@
 .gitignore
 coverage
 index.ts
+junit.xml
 package-lock.json
 tests
 tsconfig.json
