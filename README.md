@@ -1,8 +1,8 @@
 # Accent (diacritic) Removal Utility
 
 [![License: GNU](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![npm version](https://img.shields.io/badge/npm-0.1.1-blue)](https://www.npmjs.com/package/@urbanzoo/remove-accents)r
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/UrbanZooStudios/remove-accents)
+![NPM Version](https://img.shields.io/npm/v/%40urbanzoo%2Fremove-accents)
+[![Test Status](https://img.shields.io/badge/tests-passing-brightgreen)](https://github.com/UrbanZooStudios/remove-accents)
 
 A lightweight, high-performance utility for removing accents (diacritics) from strings. This package uses modern Unicode normalization techniques to efficiently transform accented characters to their base form.
 
