@@ -1,0 +1,27 @@
+{
+  "name": "remove-accents",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "npx vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrbanZooStudios/remove-accents.git"
+  },
+  "keywords": ["remove", "accents", "diacritics"],
+  "author": "Paul Canning <paulcanning@urbanzoo.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrbanZooStudios/remove-accents/issues"
+  },
+  "homepage": "https://github.com/UrbanZooStudios/remove-accents#readme",
+  "description": "",
+  "devDependencies": {
+    "@vitest/coverage-v8": "3.1.2",
+    "typescript": "5.8.3",
+    "vitest": "3.1.2"
+  }
+}
