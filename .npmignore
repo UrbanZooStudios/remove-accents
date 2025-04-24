@@ -1,3 +1,5 @@
+.gitignore
+coverage
 index.ts
 package-lock.json
 tests
